@@ -13,7 +13,7 @@ INSERT INTO students (id, first_name, last_name, birthdate, address_id) VALUES (
 INSERT INTO students (id, first_name, last_name, birthdate, address_id) VALUES (2, 'Elda', 'Sipes', '1989-08-03', 2);
 INSERT INTO students (id, first_name, last_name, birthdate, address_id) VALUES (3, 'Jed', 'Kunde', '1987-01-22', 3);
 INSERT INTO students (id, first_name, last_name, birthdate, address_id) VALUES (4, 'Leopold', 'Towne', '1984-10-07', NULL);
-INSERT INTO students (id, first_name, last_name, birthdate, address_id) VALUES (5, 'Andre', 'Rohan', '1989-09-01', 4);
+INSERT INTO students (id, first_name, last_name, birthdate, address_id) VALUES (5, 'Andres', 'Rivero', '2006-07-15', 4);
 
 INSERT INTO classes (id, name, credits) VALUES (1, 'CS 101', 4);
 INSERT INTO classes (id, name, credits) VALUES (2, 'HIST 107', 3);
